@@ -1,0 +1,7 @@
+body {
+    background-color:rgb(111, 179, 145);
+    background-image: url("2023 Etsy Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
